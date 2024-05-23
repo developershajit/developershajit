@@ -1,6 +1,6 @@
 ![Android Developer](https://github.com/developershajit/developershajit/blob/main/Navy%20Futuristic%20Business%20Facebook%20Cover.png)
-### Hi there 👋, Shajit Khan
-#### Android Developer
+## Hi there 👋, Shajit Khan
+### Android Developer
 Hello!  I am an android developer.  I love creating new Android applications.  Prefer app specific startup.  which benefits people.  And want to build app based startups internationally.  And client satisfaction is my main goal.
 
 Skills: Java / Python/php/MySQL/SQLite/Firebase/XML/Android/
