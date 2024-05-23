@@ -1,6 +1,6 @@
 ### Hi there 👋, Shajit Khan
 #### Android Developer
-![Android Developer](https://www.facebook.com/photo/?fbid=122153441726045388&set=a.122098319780045388)
+![Android Developer](https://github.com/developershajit/developershajit/blob/main/Navy%20Futuristic%20Business%20Facebook%20Cover.png)
 
 Hello!  I am an android developer.  I love creating new Android applications.  Prefer app specific startup.  which benefits people.  And want to build app based startups internationally.  And client satisfaction is my main goal.
 
