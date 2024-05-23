@@ -1,6 +1,6 @@
 ### Hi there 👋, Shajit Khan
 #### Android Developer
-![Android Developer](https://www.canva.com/design/DAGGEOZ5W34/R9Pgm_L4EGxWQyUIEdNOUQ/edit?utm_content=DAGGEOZ5W34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Android Developer](https://www.facebook.com/photo/?fbid=122153441726045388&set=a.122098319780045388)
 
 Hello!  I am an android developer.  I love creating new Android applications.  Prefer app specific startup.  which benefits people.  And want to build app based startups internationally.  And client satisfaction is my main goal.
 
@@ -27,5 +27,6 @@ Skills: Java / Python/php/MySQL/SQLite/Firebase/XML/Android/
 ![GitHub metrics](https://metrics.lecoq.io/developershajit)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=developershajit)  
+
 
 
