@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shajit Khan</h1>
-<h3 align="center">Android Developer</h3>
+### Hi there 👋, Shajit Khan
+#### Android Developer
+![Android Developer](https://www.facebook.com/photo/?fbid=122098650728045388&set=a.122098319780045388)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developershajit&label=Profile%20views&color=0e75b6&style=flat" alt="developershajit" /> </p>
+Hello!  I am an android developer.  I love creating new Android applications.  Prefer app specific startup.  which benefits people.  And want to build app based startups internationally.  And client satisfaction is my main goal.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developershajit" alt="developershajit" /></a> </p>
+Skills: Java / Python/php/MySQL/SQLite/Firebase/XML/Android/
 
-- 🌱 I’m currently learning **java**
+- 🔭 I’m currently working on Android project 
+- 🌱 I’m currently learning Java 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Android Development 
+- 📫 How to reach me: armanahmedrana785@gmail.com 
+- ⚡ Fun fact: I think I'm Funny 
 
-- 💬 Ask me about **android development**
 
-- 📫 How to reach me **armanahmedrana785@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developershajit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developershajit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/developershajit/)  
 
-- ⚡ Fun fact **I think I am funny**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/developershajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developershajit" height="30" width="40" /></a>
-<a href="https://instagram.com/developer_shajit_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_shajit_khan" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=developershajit)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershajit)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developershajit&show_icons=true&locale=en&layout=compact" alt="developershajit" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developershajit&show_icons=true&count_private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developershajit&show_icons=true&locale=en" alt="developershajit" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/developershajit/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/developershajit)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=developershajit)  
+
